@@ -822,9 +822,9 @@
     ethers "^5.4.7"
 
 "@gnosis.pm/safe-react-gateway-sdk@^2.5.6":
-  version "2.8.2"
-  resolved "https://registry.yarnpkg.com/@gnosis.pm/safe-react-gateway-sdk/-/safe-react-gateway-sdk-2.8.2.tgz#10c8158a9f3f0296ad1ee52e16f9fb41fa82f350"
-  integrity sha512-UJa7wLd9CvtPhnO+o1nLcURIfdEpVBB2XeHU0oU100y45DdVnCGsLcrSdmslIRH/odhhs3JYpXOJCzlfJQW+2A==
+  version "2.8.3"
+  resolved "https://registry.yarnpkg.com/@gnosis.pm/safe-react-gateway-sdk/-/safe-react-gateway-sdk-2.8.3.tgz#413875ab6eaedf5cad6c2d6f27e503e9a7715d21"
+  integrity sha512-M0Ay+A3ea+5eHD3uSQ+Hu3h7EzAE8F8pI0mZGuFioCUmZMa3Sv1K7OFDvXoL7Na/J2MVmOpyamBlyB5CPHpGyQ==
   dependencies:
     isomorphic-unfetch "^3.1.0"
 
@@ -2613,9 +2613,9 @@ ecc-jsbn@~0.1.1:
     safer-buffer "^2.1.0"
 
 electron-to-chromium@^1.4.17:
-  version "1.4.49"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.49.tgz#5b6a3dc032590beef4be485a4b0b3fe7d0e3dfd7"
-  integrity sha512-k/0t1TRfonHIp8TJKfjBu2cKj8MqYTiEpOhci+q7CVEE5xnCQnx1pTa+V8b/sdhe4S3PR4p4iceEQWhGrKQORQ==
+  version "1.4.51"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.51.tgz#a432f5a5d983ace79278a33057300cf949627e63"
+  integrity sha512-JNEmcYl3mk1tGQmy0EvL5eik/CKSBuzAyGP0QFdG6LIgxQe3II0BL1m2zKc2MZMf3uGqHWE1TFddJML0RpjSHQ==
 
 elliptic@6.5.4, elliptic@^6.5.2, elliptic@^6.5.4:
   version "6.5.4"
